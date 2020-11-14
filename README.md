@@ -1,5 +1,5 @@
 # Pythagoras Tree
-## Computing IV Course Assignment | [Source Code Here](https://github.com/alexbochman/Pythgoras-Tree)
+## Computing IV Course Assignment | [Source Code Here](https://github.com/alexbochman/Pythgoras-Tree/find/main)
 
 ![Pythagoras Tree](./tree.PNG)
 
