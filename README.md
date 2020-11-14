@@ -1,6 +1,5 @@
-# Pythgoras-Tree
-
-#### Computing IV course assignment at the University of Massachusetts Lowell. Create a program using C++ and SFML library to recursively generate a Pythagoras tree.
+# Pythagoras Tree
+## Computing IV Course Assignment | [Source Code Here](https://github.com/alexbochman/Pythgoras-Tree)
 
 ![Pythagoras Tree](./tree.PNG)
 
